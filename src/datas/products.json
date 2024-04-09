@@ -1,0 +1,421 @@
+[
+  {
+    "id": 1,
+    "category": 1,
+    "name": "Smartphone XYZ",
+    "brand": "XYZ",
+    "price": 599.99,
+    "description": "High-end smartphone with advanced features.",
+    "color": "Black",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 2,
+    "category": 1,
+    "name": "Budget Phone ABC",
+    "brand": "ABC",
+    "price": 199.99,
+    "description": "Affordable smartphone with decent specifications.",
+    "color": "Blue",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 3,
+    "category": 3,
+    "name": "Laptop 123",
+    "brand": "123",
+    "price": 899.99,
+    "description": "Powerful laptop for work and entertainment.",
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 4,
+    "category": 3,
+    "name": "Desktop PC XYZ",
+    "brand": "XYZ",
+    "price": 1499.99,
+    "description": "High-performance desktop computer for gaming and multitasking.",
+    "processor": "AMD Ryzen 9",
+    "ram": "32GB",
+    "storage": "1TB SSD + 2TB HDD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 5,
+    "category": 4,
+    "name": "Wireless Earbuds ABC",
+    "brand": "ABC",
+    "price": 99.99,
+    "description": "True wireless earbuds with long battery life and great sound quality.",
+    "color": "White",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 6,
+    "category": 1,
+    "name": "Flagship Phone DEF",
+    "brand": "DEF",
+    "price": 799.99,
+    "description": "Top-of-the-line smartphone with cutting-edge features.",
+    "color": "Silver",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 7,
+    "category": 3,
+    "name": "Gaming Laptop XYZ",
+    "brand": "XYZ",
+    "price": 1299.99,
+    "description": "Gaming laptop with dedicated graphics card for immersive gaming experience.",
+    "processor": "Intel Core i9",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 8,
+    "category": 4,
+    "name": "Wireless Charging Pad",
+    "brand": "PQR",
+    "price": 29.99,
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+    "color": "Black",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 9,
+    "category": 1,
+    "name": "Budget Smartphone PQR",
+    "brand": "PQR",
+    "price": 149.99,
+    "description": "Entry-level smartphone with basic features.",
+    "color": "Red",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 10,
+    "category": 3,
+    "name": "Ultrabook 456",
+    "brand": "456",
+    "price": 1099.99,
+    "description": "Slim and lightweight ultrabook for on-the-go productivity.",
+    "processor": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 11,
+    "category": 4,
+    "name": "Bluetooth Speaker XYZ",
+    "brand": "XYZ",
+    "price": 49.99,
+    "description": "Portable Bluetooth speaker with high-fidelity sound.",
+    "color": "Blue",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 12,
+    "category": 1,
+    "name": "Phablet MNO",
+    "brand": "MNO",
+    "price": 699.99,
+    "description": "Large-screen smartphone with enhanced productivity features.",
+    "color": "Gold",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 13,
+    "category": 3,
+    "name": "All-in-One PC DEF",
+    "brand": "DEF",
+    "price": 999.99,
+    "description": "Sleek all-in-one PC for home and office use.",
+    "processor": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 14,
+    "category": 4,
+    "name": "Wireless Mouse ABC",
+    "brand": "ABC",
+    "price": 19.99,
+    "description": "Ergonomic wireless mouse for comfortable computing.",
+    "color": "Red",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 15,
+    "category": 1,
+    "name": "Rugged Phone PQR",
+    "brand": "PQR",
+    "price": 299.99,
+    "description": "Durable and rugged smartphone for outdoor activities.",
+    "color": "Black",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 16,
+    "category": 3,
+    "name": "Gaming Desktop ABC",
+    "brand": "ABC",
+    "price": 1799.99,
+    "description": "High-performance gaming desktop with RGB lighting.",
+    "processor": "AMD Ryzen 7",
+    "ram": "32GB",
+    "storage": "1TB SSD + 2TB HDD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 17,
+    "category": 4,
+    "name": "Power Bank XYZ",
+    "brand": "XYZ",
+    "price": 39.99,
+    "description": "Portable power bank for charging devices on-the-go.",
+    "color": "Silver",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 18,
+    "category": 1,
+    "name": "Foldable Smartphone XYZ",
+    "brand": "XYZ",
+    "price": 1299.99,
+    "description": "Innovative foldable smartphone with flexible display.",
+    "color": "Blue",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 19,
+    "category": 3,
+    "name": "Workstation 789",
+    "brand": "789",
+    "price": 2499.99,
+    "description": "High-end workstation for demanding professional tasks.",
+    "processor": "Intel Xeon",
+    "ram": "64GB",
+    "storage": "1TB SSD + 4TB HDD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 20,
+    "category": 4,
+    "name": "Laptop Backpack ABC",
+    "brand": "ABC",
+    "price": 49.99,
+    "description": "Stylish and functional backpack for carrying laptops and accessories.",
+    "color": "Black",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 21,
+    "category": 1,
+    "name": "Camera Phone MNO",
+    "brand": "MNO",
+    "price": 899.99,
+    "description": "Smartphone with advanced camera features for photography enthusiasts.",
+    "color": "White",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 22,
+    "category": 3,
+    "name": "Mini PC PQR",
+    "brand": "PQR",
+    "price": 499.99,
+    "description": "Compact and powerful mini PC for space-saving computing.",
+    "processor": "Intel Core i3",
+    "ram": "4GB",
+    "storage": "128GB SSD",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 23,
+    "category": 4,
+    "name": "Wireless Headphones XYZ",
+    "brand": "XYZ",
+    "price": 79.99,
+    "description": "Over-ear wireless headphones with noise cancellation.",
+    "color": "Black",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 24,
+    "category": 1,
+    "name": "5G Smartphone PQR",
+    "brand": "PQR",
+    "price": 999.99,
+    "description": "5G-enabled smartphone for blazing-fast connectivity.",
+    "color": "Blue",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 25,
+    "category": 3,
+    "name": "Chromebook XYZ",
+    "brand": "XYZ",
+    "price": 399.99,
+    "description": "Lightweight and affordable Chromebook for web-based tasks.",
+    "processor": "Intel Celeron",
+    "ram": "4GB",
+    "storage": "32GB eMMC",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 26,
+    "category": 4,
+    "name": "Smartwatch ABC",
+    "brand": "ABC",
+    "price": 129.99,
+    "description": "Feature-rich smartwatch with fitness tracking and notifications.",
+    "color": "Silver",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 27,
+    "category": 1,
+    "name": "Dual-SIM Phone XYZ",
+    "brand": "XYZ",
+    "price": 349.99,
+    "description": "Dual-SIM smartphone for managing personal and work numbers.",
+    "color": "Gold",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 28,
+    "category": 3,
+    "name": "Gaming Monitor ABC",
+    "brand": "ABC",
+    "price": 599.99,
+    "description": "High-refresh-rate gaming monitor for smooth gameplay.",
+    "size": "27 inches",
+    "resolution": "2560x1440",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 29,
+    "category": 4,
+    "name": "Wireless Keyboard XYZ",
+    "brand": "XYZ",
+    "price": 69.99,
+    "description": "Wireless keyboard with ergonomic design and backlighting.",
+    "color": "RGB",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  },
+  {
+    "id": 30,
+    "category": 1,
+    "name": "Budget Flip Phone MNO",
+    "brand": "MNO",
+    "price": 79.99,
+    "description": "Basic flip phone with long battery life and simple functionality.",
+    "color": "Black",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 31,
+    "category": 2,
+    "name": "Classic Analog Watch",
+    "brand": "ABC Watches",
+    "price": 99.99,
+    "description": "Elegant analog watch with leather strap.",
+    "color": "Brown",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 32,
+    "category": 2,
+    "name": "Sports Chronograph Watch",
+    "brand": "XYZ Timepieces",
+    "price": 149.99,
+    "description": "Chronograph watch for sports enthusiasts.",
+    "color": "Black",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 33,
+    "category": 2,
+    "name": "Smart Fitness Tracker",
+    "brand": "FitTech",
+    "price": 199.99,
+    "description": "Fitness tracker watch with heart rate monitor and activity tracking.",
+    "color": "Blue",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 34,
+    "category": 2,
+    "name": "Luxury Automatic Watch",
+    "brand": "LuxuryTime",
+    "price": 999.99,
+    "description": "Automatic mechanical watch with premium design.",
+    "color": "Silver",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 35,
+    "category": 2,
+    "name": "Dive Watch",
+    "brand": "DeepSea",
+    "price": 299.99,
+    "description": "Water-resistant dive watch with luminous markers.",
+    "color": "Black",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 36,
+    "category": 2,
+    "name": "Fashionable Women's Watch",
+    "brand": "ChicTime",
+    "price": 79.99,
+    "description": "Stylish women's watch with floral design.",
+    "color": "Rose Gold",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 37,
+    "category": 2,
+    "name": "Digital Sports Watch",
+    "brand": "SportyTech",
+    "price": 49.99,
+    "description": "Digital watch with stopwatch and countdown timer.",
+    "color": "Red",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 38,
+    "category": 2,
+    "name": "Vintage Mechanical Watch",
+    "brand": "Timeless",
+    "price": 299.99,
+    "description": "Classic mechanical watch with retro styling.",
+    "color": "Brown",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 39,
+    "category": 2,
+    "name": "Minimalist Design Watch",
+    "brand": "SimpleStyle",
+    "price": 129.99,
+    "description": "Minimalist watch with clean design and slim profile.",
+    "color": "White",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 40,
+    "category": 2,
+    "name": "Aviator Pilot Watch",
+    "brand": "FlightMaster",
+    "price": 199.99,
+    "description": "Pilot watch with aviation-inspired features and rugged design.",
+    "color": "Black",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  }
+]

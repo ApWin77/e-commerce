@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile Phones",
+    "description": "Explore a wide range of mobile phones from top brands.",
+    "image": "https://iplanet.one/cdn/shop/files/iPhone_15_Pink_PDP_Image_Position-1__en-IN.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Watches",
+    "description": "Discover stylish and functional watches for every occasion.",
+    "image": "https://i5.walmartimages.com/seo/Smart-Watch-for-Android-and-iPhone-Ifanze-GTS5-IP68-Waterproof-Smartwatch-for-Women-Men-Smart-Watch-with-Bluetooth-Call-Answer-Make-Calls-Pink_fe11cf7b-c418-4efa-895a-f8802ff8eb0f.9c65571f793081b197ff1a869dd8c709.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Computers",
+    "description": "Find powerful computers and laptops for work and play.",
+    "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___a__aspire-3-a315-58-a315-58g-sv_1000main_nx.addek.00l.png"
+  },
+  {
+    "id": 4,
+    "name": "Electronics Accessories",
+    "description": "Shop for accessories like chargers, cases, and more.",
+    "image": "https://t4.ftcdn.net/jpg/03/28/37/93/360_F_328379347_xEKgEB2wkjAJmcqSTmrg4uKxfWrlL7D9.jpg"
+  }
+]
