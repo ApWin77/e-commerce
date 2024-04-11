@@ -6,10 +6,10 @@
  */
 
 import React from 'react';
-import 'react-native-gesture-handler';
 import {DefaultTheme, NavigationContainer} from '@react-navigation/native';
-import Navigator from './src/navigator';
 import {SafeAreaView, StatusBar} from 'react-native';
+import Navigator from './src/navigator';
+import 'react-native-gesture-handler';
 
 function App() {
   const theme = {

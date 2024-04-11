@@ -1,5 +1,5 @@
-import {createStackNavigator, TransitionPresets} from '@react-navigation/stack';
 import React from 'react';
+import {createStackNavigator, TransitionPresets} from '@react-navigation/stack';
 import {Category, Home, Product} from '../screens';
 
 export type Screens = {
